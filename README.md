@@ -7,3 +7,5 @@ please install ``shiny``, ``ggplot2``, ``plotly``, ``latex2exp``, before running
 library(shiny)
 runGitHub('shiny_Regularization', 'lyokka')
 ```
+
+![](regular.gif)
